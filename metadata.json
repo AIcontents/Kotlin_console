@@ -1,0 +1,6 @@
+{
+  "name": "Kotlin Task Manager (Terminal)",
+  "description": "A structured terminal-based task manager with search, sorting, and persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
